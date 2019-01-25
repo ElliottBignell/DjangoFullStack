@@ -27,7 +27,7 @@ SECRET_KEY = ')@5^kals#fko@b29)&^*=p)kju6y(x(5k(lpfy521x^v@(6gli'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'http://elliottcb.pythonanywhere.com/' ]
 
 
 # Application definition
